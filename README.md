@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-    <img alt="logo" height="100px" src="img/Jupyter Wrapper Logo V1.png">
+    <img alt="logo" height="200px" src="img/Jupyter Wrapper Logo V1.png">
   </picture>
 </div>
 
