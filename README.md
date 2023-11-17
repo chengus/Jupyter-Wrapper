@@ -28,22 +28,10 @@ This tool provides an efficient way to convert Jupyter Notebooks into standalone
 ### Usage
 (TBD - Guide on how to use the tool, with examples.)
 
-## Contributing
-Contributions are what make the open-source community an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## License
-Distributed under the [LICENSE] License. See `LICENSE` for more information.
-
-## Contact
-Your Name - [Your Email]
+Distributed under the GNU General Public License v3.0 License. See `LICENSE` for more information.
 
 Project Link: [https://github.com/chengus/Jupyter-Wrapper](https://github.com/chengus/Jupyter-Wrapper)
 
 ## Acknowledgments
-- (List of resources, inspirations, and acknowledgments.)
+Thank you dad, for inspiring me to create this project.
